@@ -1,2 +1,2 @@
-![idv-identityv](https://github.com/user-attachments/assets/a91b5dc9-a3b3-48d0-88ca-cba200dd1bc6)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ggbwo2emwqrimbzcmdk7wlulwa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
